@@ -9,7 +9,7 @@ You do not really want to do that
 
 |Monday     |Tuesday    |Wendsday   | Thursday  | Friday  |Saturday |Sunday |  
 |---        |---        |---        |---        |---      |---      |---    |  
-|<yes/>|<no/>|<yes/>|<no/>|<yes/>|<no/>|<no/>|  
+|<yes style="font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; content: 'yes'; color:white;background:green;"/>|<no/>|<yes/>|<no/>|<yes/>|<no/>|<no/>|  
 
 <style>
 yes {
